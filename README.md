@@ -8,10 +8,10 @@
   <img src="https://raw.githubusercontent.com/benjaminchimezie88-stack/benjaminchimezie88-stack/main/profile-banner.png" alt="Cybersecurity Profile Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Egwu Dennis Chigozie 👋</h1>
+<h1 align="center">Hi, I'm Chimezie Benjamin 👋</h1>
 
 <h3 align="center">
-Cybersecurity Analyst in Training | Ethical Hacking | Cyber Defense | AI Enthusiast | Tech Educator
+Cybersecurity Analyst in Training | Ethical Hacking | Soc Analyst | AI Enthusiast | Tech Educator | Data analyst
 </h3>
 
 <p align="center">
@@ -43,6 +43,7 @@ My current focus is developing a strong foundation in:
 * 🤖 Artificial Intelligence & Cybersecurity
 * 🧪 Security Labs & Practical Research
 * 👨‍🏫 Cybersecurity Training & Technology Education
+* Co founder webstack ICT Global
 
 ---
 
