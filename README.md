@@ -55,7 +55,7 @@ My current focus is developing a strong foundation in:
 
 <img src="https://img.shields.io/badge/🛡️_Cybersecurity_Analysis-0A66C2?style=for-the-badge" alt="Cybersecurity Analysis">
 
-<img src="https://img.shields.io/badge/🔐_Ethical_Hacking-111111?style=for-the-badge" alt="Ethical Hacking">
+<img src="https://img.shields.io/badge/🔐_Ethical_Hacking-111111?style=for-the-badge" alt="Soc Analysis">
 
 <img src="https://img.shields.io/badge/🌐_Network_Security-0078D4?style=for-the-badge" alt="Network Security">
 
